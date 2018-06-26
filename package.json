@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:caiorasc/docusaurus-sample.git",
   "author": "Caio Costa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redoc": "^2.0.0-alpha.25"
+  }
 }

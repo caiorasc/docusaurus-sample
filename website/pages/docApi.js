@@ -6,7 +6,7 @@ class docApi extends React.Component {
         return (
             <div>
                 <RedocStandalone
-                    specUrl="http://rebilly.github.io/RebillyAPI/swagger.json"
+                    specUrl="https://rebilly.github.io/ReDoc/openapi.yaml"
                     options={{
                         nativeScrollbars: true,
                         theme: { colors: { main: '#dd5522' } },
